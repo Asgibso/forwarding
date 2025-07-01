@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+  <Dial answerOnBridge="true" callerId="{{Call.To}}">
+    <Sip>sip:desk@t42g2.sip.au1.twilio.com</Sip>
+  </Dial>
+</Response>
