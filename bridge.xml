@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
-  <Dial >
+  <Dial>
     <Sip>sip:T42G@t42g2.sip.twilio.com</Sip>
   </Dial>
 </Response>
