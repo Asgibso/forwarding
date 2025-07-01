@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
-  <Dial answerOnBridge="true" timeout="90" >
+  <Dial timeout="90" >
     <Sip>sip:T42G@t42g2.sip.twilio.com</Sip>
   </Dial>
 </Response>
